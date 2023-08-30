@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x33a94b1e2CB5B6Ceb402F465142CB325B4d7E1a9",
+  "SCAN_LINK": "https://etherscan.io/0x33a94b1e2CB5B6Ceb402F465142CB325B4d7E1a9",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "SPIRALOO",
+  "SYMBOL": "SPIRALOO",
+  "MAX_SUPPLY": 888,
+  "WEI_COST": 88800000000000000,
+  "DISPLAY_COST": 0.08880000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/spiraloo",
+  "SHOW_BACKGROUND": true
+}
